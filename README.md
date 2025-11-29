@@ -29,7 +29,7 @@
 ### 📡 Conexões interplanetárias
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/weuler-oliveira-vieira-068660328/)
-- 🛸 GitHub: `@Weuler007`
+- 🛸 [GitHub](https://github.com/Weuler007)
 
 <hr>
 
