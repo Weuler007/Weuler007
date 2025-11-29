@@ -37,14 +37,7 @@
 
 <p align="center">
   <!-- Estatísticas gerais -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Weuler007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    alt="Estatísticas GitHub" 
-  />
 
-  <!-- Linguagens mais usadas -->
-
-  />
 
   <!-- Streak de contribuições -->
   <img 
