@@ -29,23 +29,26 @@
 ### 📡 Conexões interplanetárias
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/weuler-oliveira-vieira-068660328/)
-- 🛸 [GitHub](https://github.com/Weleto07)
+- 🛸 [GitHub](https://github.com/Weuler007)
 
 <hr>
 
 ### 📊 Telemetria de Contribuições
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Weuler007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weuler007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas" />
+</p>
 
 <hr>
 
 ### 🧩 Métricas Interativas
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Weleto07?style=for-the-badge" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/Weleto07?style=for-the-badge" alt="Estrelas" />
-  <img src="https://img.shields.io/github/issues/Weleto07?style=for-the-badge" alt="Issues" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Weleto07.Week007" alt="Visitantes" />
+  <img src="https://img.shields.io/github/followers/Weuler007?style=for-the-badge" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/Weuler007?style=for-the-badge" alt="Estrelas" />
+  <img src="https://img.shields.io/github/issues/Weuler007?style=for-the-badge" alt="Issues" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Weuler007.Week007" alt="Visitantes" />
 </p>
 
 <hr>
@@ -53,5 +56,5 @@
 ### 🏆 Troféus Galácticos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Weleto07&theme=darkhub&margin-w=15" alt="Troféus GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Weuler007&theme=darkhub&margin-w=15" alt="Troféus GitHub" />
 </p>
