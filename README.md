@@ -51,9 +51,21 @@
 ### 🧩 Métricas Interativas
 
 <p align="center">
-  
-  <img src="https://img.shields.io/github/issues/Weuler007?style=for-the-badge" alt="Issues" />
-  <img src="https://komarev.com/ghpvc/?username=Weuler007&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações de perfil" />
+  <!-- Issues abertas/fechadas -->
+  <img 
+    src="https://img.shields.io/github/issues/Weuler007/Weuler007?style=for-the-badge&logo=github&color=tokyonight" 
+    alt="Issues abertas" 
+  />
+  <img 
+    src="https://img.shields.io/github/issues-closed/Weuler007/Weuler007?style=for-the-badge&logo=github&color=success" 
+    alt="Issues fechadas" 
+  />
+
+  <!-- Visualizações de perfil -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=Weuler007&style=for-the-badge&color=blueviolet" 
+    alt="Visualizações de perfil" 
+  />
 </p>
 
 <hr>
