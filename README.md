@@ -36,8 +36,8 @@
 ### 📊 Telemetria de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Weuler007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weuler007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Weuler007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weuler007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas" />
 </p>
 
 <hr>
@@ -45,9 +45,9 @@
 ### 🧩 Métricas Interativas
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Weuler007?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Weuler007?style=for-the-badge" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Weuler007.Week007" />
+  <img src="https://img.shields.io/github/followers/Weuler007?style=for-the-badge" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/Weuler007?style=for-the-badge" alt="Estrelas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Weuler007.Week007" alt="Visitantes" />
 </p>
 
 <hr>
@@ -55,5 +55,5 @@
 ### 🏆 Troféus Galácticos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Weuler007&theme=darkhub&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Weuler007&theme=darkhub&margin-w=15" alt="Troféus GitHub" />
 </p>
