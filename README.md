@@ -35,10 +35,7 @@
 
 ### 📊 Telemetria de Contribuições
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Weleto07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weleto07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas" />
-</p>
+
 
 <hr>
 
