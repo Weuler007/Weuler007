@@ -60,8 +60,7 @@
 ### 🧩 Métricas Interativas
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Weuler007?style=for-the-badge" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/Weuler007?style=for-the-badge" alt="Estrelas" />
+  
   <img src="https://img.shields.io/github/issues/Weuler007?style=for-the-badge" alt="Issues" />
   <img src="https://komarev.com/ghpvc/?username=Weuler007&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações de perfil" />
 </p>
