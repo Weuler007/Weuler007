@@ -4,7 +4,7 @@
   <strong>Desde Julho de 2024</strong>
 </p>
 
----
+<hr>
 
 ### 🧠 Tecnologias em Missão
 
@@ -19,19 +19,19 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
----
+<hr>
 
 ### 🌌 Frase que me representa
 > “Codifico o presente, arquitetando o futuro — cada projeto é uma jornada intergaláctica rumo à inovação.”
 
----
+<hr>
 
 ### 📡 Conexões interplanetárias
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/weuler-oliveira-vieira-068660328/)
 - 🛸 GitHub: `@Weuler007`
 
----
+<hr>
 
 ### 📊 Telemetria de Contribuições
 
