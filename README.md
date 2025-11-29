@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Weuler007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estatísticas GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weuler007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Weuler007&theme=tokyonight&hide_border=true" alt="Streak de Contribuições" />
 </p>
 
 <hr>
@@ -48,7 +49,7 @@
   <img src="https://img.shields.io/github/followers/Weuler007?style=for-the-badge" alt="Seguidores" />
   <img src="https://img.shields.io/github/stars/Weuler007?style=for-the-badge" alt="Estrelas" />
   <img src="https://img.shields.io/github/issues/Weuler007?style=for-the-badge" alt="Issues" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Weuler007.Week007" alt="Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=Weuler007&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações de perfil" />
 </p>
 
 <hr>
