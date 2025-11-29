@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Weuler007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estatísticas GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weuler007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Weuler007&theme=tokyonight&hide_border=true" alt="Streak de Contribuições" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Weuler007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estatísticas GitHub">
 </p>
 
 <hr>
