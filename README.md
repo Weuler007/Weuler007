@@ -36,9 +36,6 @@
 ### 📊 Telemetria de Contribuições
 
 <p align="center">
-  <!-- Estatísticas gerais -->
-
-
   <!-- Streak de contribuições -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Weuler007&theme=tokyonight&hide_border=true" 
@@ -72,7 +69,8 @@
 
 ### 🏆 Troféus Galácticos
 
-[<p align="center">
-[  [<img src="https://github-profile-trophy.vercel.app/?username=Weuler007&theme=darkhub&margin-w=15" alt="Troféus GitHub" </>](https://github-profile-trophy.vercel.app/?username=Weuler007&theme=dracula&column=4&margin-w=15)
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=Weuler007&theme=dracula&column=4&margin-w=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=Weuler007&theme=darkhub&margin-w=15" alt="Troféus GitHub"/>
+  </a>
 </p>
-
