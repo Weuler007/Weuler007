@@ -36,7 +36,6 @@
 ### 📊 Telemetria de Contribuições
 
 <p align="center">
-  <!-- Streak de contribuições -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Weuler007&theme=tokyonight&hide_border=true" 
     alt="Streak de Contribuições" 
@@ -48,17 +47,14 @@
 ### 🧩 Métricas Interativas
 
 <p align="center">
-  <!-- Issues abertas/fechadas -->
   <img 
-    src="https://img.shields.io/github/issues/Weuler007/Weuler007?style=for-the-badge&logo=github&color=tokyonight" 
+    src="https://img.shields.io/github/issues/Weuler007/Weuler007?style=for-the-badge&logo=github&color=blue" 
     alt="Issues abertas" 
   />
   <img 
     src="https://img.shields.io/github/issues-closed/Weuler007/Weuler007?style=for-the-badge&logo=github&color=success" 
     alt="Issues fechadas" 
   />
-
-  <!-- Visualizações de perfil -->
   <img 
     src="https://komarev.com/ghpvc/?username=Weuler007&style=for-the-badge&color=blueviolet" 
     alt="Visualizações de perfil" 
