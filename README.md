@@ -73,6 +73,6 @@
 ### 🏆 Troféus Galácticos
 
 [<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Weuler007&theme=darkhub&margin-w=15" alt="Troféus GitHub" </>
+[  [<img src="https://github-profile-trophy.vercel.app/?username=Weuler007&theme=darkhub&margin-w=15" alt="Troféus GitHub" </>](https://github-profile-trophy.vercel.app/?username=Weuler007&theme=dracula&column=4&margin-w=15)
 </p>
-](https://github-profile-trophy.vercel.app/?username=Weuler007&theme=dracula&column=4&margin-w=15)
+
