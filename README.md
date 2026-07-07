@@ -75,16 +75,20 @@ Sou o **Weuler de Oliveira Vieira** e uso este espaco para compartilhar minha jo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Weuler007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatisticas do GitHub de Weuler007" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weuler007&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Weuler007" />
+![Seguidores](https://img.shields.io/github/followers/Weuler007?style=for-the-badge&logo=github&label=Seguidores&color=38BDF8)
+![Estrelas](https://img.shields.io/github/stars/Weuler007?affiliations=OWNER&style=for-the-badge&logo=github&label=Estrelas&color=FACC15)
+![Repositorios](https://img.shields.io/badge/Repositorios-em%20evolucao-22C55E?style=for-the-badge&logo=github)
 
 </div>
 
-<div align="center">
+<details>
+<summary><strong>Resumo da minha evolucao no GitHub</strong></summary>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Weuler007&theme=tokyonight&hide_border=true)
+- Meu foco atual e publicar projetos simples, claros e bem documentados.
+- Cada repositorio novo entra como uma etapa pratica de estudo.
+- Estou priorizando JavaScript, HTML, CSS, Git e organizacao de portfolio.
 
-</div>
+</details>
 
 ---
 
@@ -94,7 +98,8 @@ Sou o **Weuler de Oliveira Vieira** e uso este espaco para compartilhar minha jo
 
 <div align="center">
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=Weuler007&repo=README.md&theme=tokyonight&hide_border=true)](https://github.com/Weuler007/README.md)
+[![README do perfil](https://img.shields.io/badge/README%20do%20perfil-Ver%20repositorio-38BDF8?style=for-the-badge&logo=github)](https://github.com/Weuler007/README.md)
+[![Meu GitHub](https://img.shields.io/badge/Outros%20projetos-Ver%20perfil-181717?style=for-the-badge&logo=github)](https://github.com/Weuler007)
 
 </div>
 
